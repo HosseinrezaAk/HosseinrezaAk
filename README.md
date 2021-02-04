@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Connect with me:
+
 
 
 
