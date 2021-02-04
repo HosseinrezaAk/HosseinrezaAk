@@ -4,16 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Connect with me:
 
 
-
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-
-
-[linkedin]: https://www.linkedin.com/in/hossein2x-590712164/
 
 
 
