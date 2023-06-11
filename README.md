@@ -8,10 +8,10 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=2x-Hra&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Hosseinreza's Github stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=2x-Hra&rank_icon=github&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats&theme=transparent&bg_color=DEG,99DBF5,ECF8F9#gh-light-mode-only" alt="Hosseinreza's Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&langs_count=8&hide_border=1&COLLABORATOR#gh-light-mode-only" alt="Hosseinreza's Language stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&langs_count=8&hide_border=1&COLLABORATOR&theme=transparent&bg_color=DEG,99DBF5,ECF8F9#gh-light-mode-only" alt="Hosseinreza's Language stats" />
 </a>
 
 </div>
