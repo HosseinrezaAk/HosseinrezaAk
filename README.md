@@ -19,7 +19,7 @@
 <!-- Dark Mode -->
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=2x-Hra&rank_icon=github&show_icons=true&theme=transparent&card_width=450" alt="Hosseinreza's Github stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=2x-Hra&rank_icon=github&line_height=28&show_icons=true&card_width=450&theme=transparent" alt="Hosseinreza's Github stats" />
 
 
   </a>
