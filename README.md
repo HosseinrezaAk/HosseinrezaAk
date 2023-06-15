@@ -19,7 +19,7 @@
 <!-- Dark Mode -->
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=2x-Hra&show_icons=true&rank_icon=github&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats&theme=transparent&bg_color=00000000#gh-dark-mode-only" alt="Hosseinreza's Github stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=2x-Hra&rank_icon=github&show_icons=true&theme=transparent" alt="Hosseinreza's Github stats" />
 
 
   </a>
@@ -32,16 +32,16 @@
 </div>
 
 
-<!-- 
-![Hosseinreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=2x-Hra&show_icons=true&theme=transparent)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- ![Hosseinreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=2x-Hra&show_icons=true&theme=transparent)
+ -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=2x-Hra&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
-
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> 
+ -->
 
 <br>
 <div align="left">
