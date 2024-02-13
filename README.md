@@ -14,7 +14,7 @@
  
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&langs_count=8&hide_border=1&COLLABORATOR&theme=transparent&bg_color=DEG,99DBF5,ECF8F9#gh-light-mode-only" alt="Hosseinreza's Language stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&langs_count=8&hide_border=1&COLLABORATOR&theme=transparent#gh-light-mode-only" alt="Hosseinreza's Language stats" />
 </a>
 
 </div>
