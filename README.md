@@ -36,12 +36,16 @@
 
 
 <br>
+<div>
+ <a href="https://stackexchange.com/users/9546861"><img src="https://stackexchange.com/users/flair/9546861.png?theme=dark" width="208" height="58" alt="profile for Hosseinreza on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hosseinreza on Stack Exchange, a network of free, community-driven Q&amp;A sites " ></a>
+</div>
+
 <div align="left">
  
-/* ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HosseinrezaAk) */
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HosseinrezaAk) 
 
 </div>
-<a href="https://stackoverflow.com/users/7092547/hosseinreza"><img src="https://stackoverflow.com/users/flair/7092547.png" width="208" height="58" alt="profile for Hosseinreza at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hosseinreza at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ?theme=dark></a>
+
 
 
 
