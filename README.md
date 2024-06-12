@@ -38,10 +38,10 @@
 <br>
 <div align="left">
  
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HosseinrezaAk)
+/* ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HosseinrezaAk) */
 
 </div>
-<a href="https://stackoverflow.com/users/7092547/hosseinreza"><img src="https://stackoverflow.com/users/flair/7092547.png" width="208" height="58" alt="profile for Hosseinreza at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hosseinreza at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/7092547/hosseinreza"><img src="https://stackoverflow.com/users/flair/7092547.png" width="208" height="58" alt="profile for Hosseinreza at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hosseinreza at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ?theme=dark></a>
 
 
 
