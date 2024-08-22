@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
  
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47tmcqbznc4ohxm2nvblb4dny5y3irg1w9ulnamsve&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47715hybw8pucqrdz9bqmgpgzxsmyv6k017ejq00w9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/hrakbari/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
