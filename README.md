@@ -1,50 +1,33 @@
 ### Hi there 👋 I'm [Hosseinreza ](https://www.github.com/HosseinrezaAk)
 
-<!-- 
-[![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=2x-Hra&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2x-Hra&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-
-<!-- Light Mode -->
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=HosseinrezaAk&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats&theme=transparent#gh-light-mode-only" alt="Hosseinreza's Github stats" />
-</a>
+<div id="header" align="center">
  
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinrezaAk&layout=compact&langs_count=8&hide_border=1&COLLABORATOR&theme=transparent#gh-light-mode-only" alt="Hosseinreza's Language stats" />
-</a>
-
-</div>
-
-<!-- Dark Mode -->
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=HosseinrezaAk&line_height=28&count_private=true&show_icons=true&card_width=450&theme=transparent" alt="Hosseinreza's Github stats" />
-
-
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47tmcqbznc4ohxm2nvblb4dny5y3irg1w9ulnamsve&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/hrakbari/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinrezaAk&layout=compact&langs_count=8&hide_border=2&COLLABORATOR&theme=transparent&bg_color=00000000#gh-dark-mode-only" alt="Hosseinreza's Language stats" />
-</a>
-
+  <a href="https://stackoverflow.com/users/7092547/hosseinreza">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 </div>
 
 
-<br>
-<div>
- <a href="https://stackexchange.com/users/9546861"><img src="https://stackexchange.com/users/flair/9546861.png?theme=dark" width="208" height="58" alt="profile for Hosseinreza on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hosseinreza on Stack Exchange, a network of free, community-driven Q&amp;A sites " ></a>
-</div>
+<h1 align="center">Hi 👋, I'm <a href="https://HosseinrezaAk.github.io/" target="blank">
+Hosseinreza</a></h1>
 
-<div align="left">
- 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HosseinrezaAk) 
 
-</div>
+- 🔭 Currently diving deep into front-end development with Vue.js and Nuxt.js, constantly learning and growing every day.
+- 💪 My passion lies in both front-end and back-end development, and I thrive on solving challenging problems, especially those on LeetCode.
+- 💥 Excited to keep pushing the boundaries of what's possible in tech!
+- 📫 I can be found mostly via emails.
+
+---
+
+### :fire: My Stats :
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=HosseinrezaAk&theme=dark&show_icons=true&count_private=true" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinrezaAk&theme=dark&hide_border=false" width="350" /> 
 
 
 
